@@ -1,1 +1,2 @@
-GHS Vaidwala 
+# ghs
+Govt High school Vaidwala
